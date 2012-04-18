@@ -2,6 +2,6 @@
 rholog.txt
 rholog-*
 sim-*
-
+.DS_Store
 # build output
 bin/
